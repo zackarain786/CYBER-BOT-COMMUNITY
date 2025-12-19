@@ -17,7 +17,7 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "ChatBot",
-    "PREFIX": "/",
+    "PREFIX": "#",
     "ADMINBOT": [
         "100003186392288"
     ],
