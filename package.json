@@ -1,7 +1,7 @@
 {
-  "name": "ISLAMICK BOT",
-  "version": "5.0.0",
-  "description": "made by 𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_☢️",
+  "name": "ChatBot",
+  "version": "1.0.2",
+  "description": "made by Zack xD",
   "main": "Cyber.js",
   "engines": {
     "node": ">=20.18.1",
@@ -14,22 +14,22 @@
   },
   "repository": {
       "type": "git",
-      "url": "https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY.git"
+      "url": "https://github.com/zackarain786/CYBER-BOT-COMMUNITY.git"
   },
   "keywords": [
       "bot",
       "facebook",
-      "ullashproject",
+      "zack",
       "messenger",
       "javasvript",
-      "ullash",
+      "zaman",
       "cyberullash",
       "cyberRajib ",
-      "islamick chat bot",
+      "messenger chat bot",
       "grandpa academy",
       "cyberbot.top"
   ],
-  "author": "Ullash ッ",
+  "author": "Zack ッ",
   "license": "GPL-3.0",
   "bugs": {
       "url": "https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/issues"
